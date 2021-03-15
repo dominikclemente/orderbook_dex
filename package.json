@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:dominikclemente/orderbook_dex.git",
   "author": "Dominik <dominik.clemente@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1"
+  }
 }
