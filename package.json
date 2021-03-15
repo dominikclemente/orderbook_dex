@@ -1,0 +1,9 @@
+{
+  "name": "orderbook_dex",
+  "version": "1.0.0",
+  "description": "A decentralized exchange using the orderbook model for matching buy and sell orders. On-chain orderbook with limit and market orders where users can swap from eth to some token and from the token back to eth. Final project from the smart contract programming 201 at the Ivan on Tech Academy.",
+  "main": "index.js",
+  "repository": "git@github.com:dominikclemente/orderbook_dex.git",
+  "author": "Dominik <dominik.clemente@gmail.com>",
+  "license": "MIT"
+}
